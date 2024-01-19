@@ -1,4 +1,4 @@
-### Hey there, I'm Manish 👋
+### Hey there, I'm [Manish](https://manishsalian.vercel.app/) 👋
 
 
 ### I'm a Student and a Web Developer!!
@@ -24,8 +24,6 @@
   </a>
 </p>
 <br/>
-
-🌐 Portfolio [website]
 
 [twitter]: https://twitter.com/manish17salian
 [instagram]: https://www.instagram.com/manish17salian
