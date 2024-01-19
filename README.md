@@ -12,8 +12,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Twitter" src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
 <br />
 
@@ -21,10 +20,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,nextjs,git,docker,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,nextjs,git,docker,rabbitmq" />
   </a>
 </p>
-<br />
+<br/>
+
+🌐 Portfolio [website]
 
 [twitter]: https://twitter.com/manish17salian
 [instagram]: https://www.instagram.com/manish17salian
