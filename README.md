@@ -36,6 +36,7 @@
 [twitter]: https://twitter.com/manish17salian
 [instagram]: https://www.instagram.com/manish17salian
 [linkedin]: https://www.linkedin.com/in/manish17salian
+[website]: https://manishsalian.vercel.app/
 
 
 
